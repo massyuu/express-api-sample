@@ -1,0 +1,6 @@
+POST http://localhost:3000/api/postTest
+content-type: application/json
+
+ {
+   "param1":"sample"
+ }
